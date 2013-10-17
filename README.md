@@ -20,3 +20,9 @@ above
 after the card has been interrogated, the resultant track 1
 and track 2 data will be print out
 
+Parameters
+==========
+-ck  the acquirer consumer key
+-cs  the acquirer consumer secret
+-at  the transaction access token
+-ts  the trasaction access token secret
